@@ -5,3 +5,4 @@ This respository contains code examples for the online course [Apache Maven: Beg
 ## Apache Maven: Beginner to Guru
 
 This repo contains a course assignment from my online course Apache Maven: Beginner to Guru.
+
